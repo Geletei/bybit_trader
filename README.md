@@ -1,4 +1,4 @@
-#  Bybit trader
+#  Bybit Trader
 
 ### 1. Відкрийте файл `bybit_trader.js` в будь-якому текстовому редакторі.
 
