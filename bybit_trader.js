@@ -9,7 +9,7 @@ const selectors = {
   spotButton: "#sfeOrderTabSpot",
   marketButton: "#sfePlaceOrderArea > div.order-create > ul > li:nth-child(2)",
   setSpot0Button: "#sfeMarketArea > div > div.order-market-form > div.order-market-item.order-market-slider > div > div.moly-slider-mark > span:nth-child(1)",
-  etSpot100Button: "#sfeMarketArea > div > div.order-market-form > div.order-market-item.order-market-slider > div > div.moly-slider-mark > span:nth-child(5)",
+  setSpot100Button: "#sfeMarketArea > div > div.order-market-form > div.order-market-item.order-market-slider > div > div.moly-slider-mark > span:nth-child(5)",
   orderMarketSubmitButton: "#sfeOrderPlaceBtn",
   MarketOrderSubmit: "div.moly-modal > div:nth-child(4) > div > button:nth-child(1)", 
   buySectionButton: "#sfePlaceOrderArea > div.order-create > div.order-create-side-tabs.flex-items-center.flex-row-space-between > button.buy.flex-1",
